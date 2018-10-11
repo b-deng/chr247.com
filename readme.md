@@ -63,4 +63,4 @@ Please read [**contributing guide**](https://github.com/chr24x7/chr247.com/blob/
 **Contributions, bug fixes and feature requests are more than welcome!**
   
 ## Contact
-  For more info visit [chr247.com](https://chr247.com/) or email [imesha.sudasingha@gmail.com](mailto:imesha.sudasingha@gmail.com)
+  For more info visit [chr247.com](http://chr247.com/) or email [imesha.sudasingha@gmail.com](mailto:imesha.sudasingha@gmail.com)
